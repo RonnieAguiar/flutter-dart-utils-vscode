@@ -97,6 +97,11 @@
 		"body":"const SizedBox(height: $1),",
 		"description": "Create SizedBox separator"
 	},
+	"sized-box-horizontal-spacer": {
+		"prefix": "fu-separator-horizontal",
+		"body":"const SizedBox(width: $1),",
+		"description": "Create SizedBox horizontal separator"
+	},
 	"part.g.dart": {
 		"prefix": "fu-part",
 		"body": "part '$TM_FILENAME_BASE.g.dart';"
