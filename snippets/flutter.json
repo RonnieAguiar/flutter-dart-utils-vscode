@@ -94,11 +94,7 @@
 	},
 	"sized-box-spacer": {
 		"prefix": "fu-separator",
-		"body": [
-			"const SizedBox(",
-			"   height: $1,",
-			"),"
-		],
+		"body":"const SizedBox(height: $1),",
 		"description": "Create SizedBox separator"
 	},
 	"part.g.dart": {
@@ -133,6 +129,6 @@
 			"});"
 		]
 	}
-	
-	
+
+
 }
